@@ -21,7 +21,3 @@ A static frontend clone of the Myntra website, developed using **HTML**, **CSS**
 - **HTML5**  
 - **CSS3**  
 - **Google Fonts & Material Symbols**
-
-- **HTML5**  
-- **CSS3**  
-- **Google Fonts & Material Symbols**
